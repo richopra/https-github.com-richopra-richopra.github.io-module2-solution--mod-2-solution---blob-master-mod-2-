@@ -22,7 +22,7 @@ h1 {
 div#container {background-color: #00ffff;
 				position: relative;
 				top: 100px;
-				width: 95%
+				width: 99%
 				height: 40%;}
 
 
@@ -33,7 +33,7 @@ div#container {background-color: #00ffff;
 	margin-right: auto;
 	margin-left: auto;
 	margin: 2%;
-	height:67%;
+	height:50%;
 	font-family: Helvetica;
 	position: relative;
 	
@@ -45,7 +45,7 @@ div#container {background-color: #00ffff;
 	margin-right: auto;
 	margin-left: auto;
 	margin: 2%;
-	height:67%;
+	height:50%;
 	font-family: Helvetica;
 	position: relative;
 	
@@ -57,7 +57,7 @@ div#container {background-color: #00ffff;
 	margin-right: auto;
 	margin-left: auto;
 	margin: 2%;
-	height:67%;
+	height:50%;
 	font-family: Helvetica;
 	position: relative;
 	
@@ -68,7 +68,7 @@ div#container {background-color: #00ffff;
 	font-weight: bold;
 	background-color: blue;
 	width: 40%;
-	height:18%;
+	height:12%;
 	padding : 2%;
 	text-align: center;
 	position: absolute; top:0;
@@ -79,7 +79,7 @@ div#container {background-color: #00ffff;
 	font-weight: bold;
 	background-color: orange;
 	padding : 2%; width: 40%;
-	height:18%;
+	height:12%;
 	text-align: center;
 	position: absolute; top:0;
 	right:0;}
@@ -89,7 +89,7 @@ div#container {background-color: #00ffff;
 	font-weight: bold;
 	background-color: pink;
 	padding: 2%; width: 40%;
-	height:18%;
+	height:12%;
 	text-align: center;
 	position: absolute; top:0;
 	right:0;}
