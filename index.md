@@ -22,6 +22,7 @@ h1 {
 div#container {background-color: #00ffff;
 				position: relative;
 				top: 100px;
+				width: 95%
 				height: 40%;}
 
 
